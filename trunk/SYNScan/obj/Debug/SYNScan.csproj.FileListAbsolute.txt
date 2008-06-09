@@ -1,0 +1,9 @@
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\bin\Debug\SYNScan.exe
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\bin\Debug\SYNScan.pdb
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\bin\Debug\RawSocketSniffer.dll
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\bin\Debug\RawSocketSniffer.pdb
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\obj\Debug\SYNScan.Properties.Resources.resources
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\obj\Debug\SYNScan.csproj.GenerateResource.Cache
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\obj\Debug\SYNScan.exe
+D:\Backup\我的文档\我的作品\y97523's Scan\SYNScan\obj\Debug\SYNScan.pdb
