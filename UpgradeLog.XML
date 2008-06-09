@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="y97523's Scan">
+</Property><Property Name="解决方案文件" Value="D:\Backup\我的文档\我的作品\y97523's Scan\y97523's Scan.sln">
+</Property><Property Name="用户选项文件" Value="D:\Backup\我的文档\我的作品\y97523's Scan\y97523's Scan.suo">
+</Property><Property Name="Date" Value="2008年5月26日">
+</Property><Property Name="Time" Value="19:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="y97523's Scan.sln" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\y97523's Scan.sln">
+</Event><Event ErrorLevel="0" Project="" Source="y97523's Scan.suo" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\y97523's Scan.suo">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\GuiTest.csproj" Description="项目文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\GuiTest.csproj">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\GuiTest.csproj.user" Description="项目用户文件成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\GuiTest.csproj.user">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Form1.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Form1.Designer.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Program.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Program.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Properties\Resources.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Properties\Settings.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Properties\Settings.settings" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\Properties\Resources.resx" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\GuiTest\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\GuiTest.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="GuiTest" Source="GuiTest\GuiTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\RawSocketSniffer.csproj" Description="项目文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\RawSocketSniffer.csproj">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\RawSocketSniffer.csproj.user" Description="项目用户文件成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\RawSocketSniffer.csproj.user">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Properties\Resources.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Properties\Settings.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Sniffer.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Sniffer.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\PackSender.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\PackSender.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\SYNPackage.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\SYNPackage.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\SYNScaner.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\SYNScaner.cs">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\app.config" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\app.config">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Properties\Settings.settings" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\Properties\Resources.resx" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\RawSocketSniffer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\RawSocketSniffer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="RawSocketSniffer" Source="RawSocketSniffer\RawSocketSniffer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\SendspeedTestGui.csproj" Description="项目文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\SendspeedTestGui.csproj">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\SendspeedTestGui.csproj.user" Description="项目用户文件成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\SendspeedTestGui.csproj.user">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Form1.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Form1.Designer.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Program.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Program.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Properties\Resources.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Properties\Settings.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Properties\Settings.settings" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\Properties\Resources.resx" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SendspeedTestGui\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\SendspeedTestGui.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="SendspeedTestGui" Source="SendspeedTestGui\SendspeedTestGui.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\SYNScan.csproj" Description="项目文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\SYNScan.csproj">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\SYNScan.csproj.user" Description="项目用户文件成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\SYNScan.csproj.user">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Program.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Program.cs">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Properties\Resources.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Properties\Settings.cs" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Properties\Settings.settings" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\Properties\Resources.resx" Description="文件已成功备份为 D:\Backup\我的文档\我的作品\y97523's Scan\Backup\SYNScan\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\SYNScan.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="SYNScan" Source="SYNScan\SYNScan.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="y97523's Scan.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="y97523's Scan.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GuiTest" Source="GuiTest\GuiTest.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="RawSocketSniffer" Source="RawSocketSniffer\RawSocketSniffer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="SendspeedTestGui" Source="SendspeedTestGui\SendspeedTestGui.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="SYNScan" Source="SYNScan\SYNScan.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

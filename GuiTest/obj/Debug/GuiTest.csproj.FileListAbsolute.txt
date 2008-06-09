@@ -1,0 +1,9 @@
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\obj\Debug\GuiTest.exe
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\obj\Debug\GuiTest.pdb
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\obj\Debug\GuiTest.Properties.Resources.resources
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\obj\Debug\GuiTest.csproj.GenerateResource.Cache
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\bin\Debug\GuiTest.exe
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\bin\Debug\GuiTest.pdb
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\bin\Debug\RawSocketSniffer.dll
+D:\Backup\我的文档\我的作品\y97523's Scan\GuiTest\bin\Debug\RawSocketSniffer.pdb

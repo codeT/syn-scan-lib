@@ -1,0 +1,2 @@
+obj\Debug\GuiTest.exe
+obj\Debug\GuiTest.pdb
